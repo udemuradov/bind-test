@@ -106,7 +106,7 @@ class HeaderDropdownWidget extends StatelessWidget {
           icon: const Icon(Icons.keyboard_arrow_down_rounded),
           decoration: InputDecoration(
               enabledBorder: OutlineInputBorder(
-                  borderRadius: BorderRadius.circular(10),
+                  borderRadius: BorderRadius.circular( 10),
                   borderSide: const BorderSide(color: AppColors.headerGrey))),
           borderRadius: BorderRadius.circular(10),
           isExpanded: true,
